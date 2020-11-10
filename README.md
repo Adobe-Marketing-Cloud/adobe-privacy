@@ -10,4 +10,4 @@ If you are looking for the latest version, you can find it [here](https://github
 
 ## Docs
 
-[Read the public docs](https://www.adobe.io/apis/cloudplatform/gdpr/services/allservices.html#!api-specification/markdown/narrative/gdpr/use-cases/adobe-privacy-library.md)
+[Read the public docs](https://docs.adobe.com/content/help/en/experience-platform/privacy/js-library.html)
